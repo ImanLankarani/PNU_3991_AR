@@ -1,7 +1,7 @@
 
 # PNU_3991_AR
 ----------
-### ایمان لنکرانی
+### سید ایمان لنکرانی
 
 ---
 - [PNU_3991_AR](https://github.com/ImanLankarani/PNU_3991_AR)
