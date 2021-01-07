@@ -8,7 +8,7 @@
 - [Github](https://github.com/ImanLankarani)
 - [Resume](https://imanlankarani.github.io/iman/)
 - [SOP](https://github.com/ImanLankarani/SOP)
-- [Certificate]()
+- [Certificate](https://www.sololearn.com/Certificate/1024-20544702/pdf/)
 
 -------------------
 ## گروه ها
